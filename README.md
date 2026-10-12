@@ -17,4 +17,4 @@ A TrueNAS-based personal cloud built from repurposed hardware, focused on self-h
 
 ## Beyond Computers
 
-Outside of tech, I'm into off-roading, cars, and automotive photography.
+Outside of tech, I'm into off-roading, cars, and photography.
