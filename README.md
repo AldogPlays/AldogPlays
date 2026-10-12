@@ -2,7 +2,7 @@
 
 I'm interested in networking, systems administration, cybersecurity, and software development.
 
-I enjoy self-hosting, exploring new technologies, and building practical solutions to everyday problems. I'm particularly interested in digital sovereignty, open-source software, and having greater ownership and control over the technology I use.
+I like building things I can use, whether that's an Android app or a server running at home. Self-hosting has become a big part of that: fewer subscriptions, more control over my data, and a chance to understand the systems I rely on.
 
 ## Projects
 
@@ -10,10 +10,10 @@ I enjoy self-hosting, exploring new technologies, and building practical solutio
 A free, open-source, offline-first Android app for off-road trail navigation, built with Kotlin.
 
 **[LubeLogger-Android](https://github.com/AldogPlays/LubeLogger-Android)**  
-A lightweight Android client for self-hosted LubeLogger instances, with network-aware server address switching.
+An Android client for self-hosted LubeLogger instances, with network-aware server address switching. I use it with my own server to track my truck's maintenance, modifications, and fuel.
 
-**Personal Cloud & Homelab**  
-A TrueNAS-based personal cloud built from repurposed hardware, focused on self-hosting, data ownership, and hands-on networking experience.
+**[Homelab](https://github.com/AldogPlays/Homelab)**  
+My personal cloud, built from a repurposed gaming PC running TrueNAS SCALE. It hosts the services I use for photos, files, notes, passwords, and media, with Tailscale for private remote access. The repository documents the hardware, architecture, decisions, and lessons learned—including the gaps I'm still working on.
 
 ## Beyond Computers
 
