@@ -2,7 +2,7 @@
 
 I'm interested in networking, systems administration, cybersecurity, and software development.
 
-I enjoy self-hosting, exploring new technologies, and building practical solutions to problems I encounter. I'm especially passionate about privacy, digital sovereignty, and having more control over the technology I use.
+I enjoy self-hosting, exploring new technologies, and building practical solutions to everyday problems. I'm particularly interested in digital sovereignty, open-source software, and having greater ownership and control over the technology I use.
 
 ## Projects
 
