@@ -9,6 +9,9 @@ I like building things I can use, whether that's an Android app or a server runn
 **[TrailRelay](https://github.com/AldogPlays/TrailRelay)**  
 A free, open-source, offline-first Android app for off-road trail navigation, built with Kotlin.
 
+**[Goveon](https://github.com/AldogPlays/Goveon)**  
+A privacy-first Android app for controlling Govee lights locally via Bluetooth and LAN. No cloud, accounts, or API keys required.
+
 **[Homelab](https://github.com/AldogPlays/Homelab)**  
 A personal cloud running TrueNAS SCALE on repurposed hardware. Hosts my everyday services and documents the setup, decisions, and lessons learned.
 
