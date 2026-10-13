@@ -13,7 +13,7 @@ A free, open-source Android app for off-road trail navigation, built with Kotlin
 A privacy-focused Android app for controlling Govee lights over Bluetooth and Wi-Fi, without accounts or cloud services.
 
 **[Homelab](https://github.com/AldogPlays/Homelab)**  
-A self-hosted personal cloud running TrueNAS SCALE on repurposed hardware, providing everyday services and private file storage.
+A self-hosted personal cloud running TrueNAS SCALE on repurposed hardware, providing everyday services.
 
 **[LubeLogger-Android](https://github.com/AldogPlays/LubeLogger-Android)**  
 An Android client for self-hosted LubeLogger servers, designed to track vehicle maintenance, modifications, and fuel usage.
