@@ -4,7 +4,7 @@ I'm interested in networking, systems administration, cybersecurity, and softwar
 
 I like building things I can use, whether that's an Android app or a server running at home. Self-hosting has become a big part of that: fewer subscriptions, more control over my data, and a chance to understand the systems I rely on.
 
-## Projects
+## Favorite Projects
 
 **[TrailRelay](https://github.com/AldogPlays/TrailRelay)**  
 A free, open-source, offline-first Android app for off-road trail navigation, built with Kotlin.
