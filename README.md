@@ -7,16 +7,16 @@ I like building things I can use, whether that's an Android app or a server runn
 ## Favorite Projects
 
 **[TrailRelay](https://github.com/AldogPlays/TrailRelay)**  
-A free, open-source, offline-first Android app for off-road trail navigation, built with Kotlin.
+A free, open-source Android app for off-road trail navigation, built with Kotlin and designed to work offline.
 
 **[Goveon](https://github.com/AldogPlays/Goveon)**  
-A privacy-first Android app for controlling Govee lights locally via Bluetooth and LAN. No cloud, accounts, or API keys required.
+A privacy-focused Android app for controlling Govee lights over Bluetooth and Wi-Fi, without accounts or cloud services.
 
 **[Homelab](https://github.com/AldogPlays/Homelab)**  
-A personal cloud running TrueNAS SCALE on repurposed hardware. Hosts my everyday services and documents the setup, decisions, and lessons learned.
+A self-hosted personal cloud running TrueNAS SCALE on repurposed hardware, providing everyday services and private file storage.
 
 **[LubeLogger-Android](https://github.com/AldogPlays/LubeLogger-Android)**  
-An Android client for self-hosted LubeLogger instances, with network-aware server address switching. I use it with my own server to track my truck's maintenance, modifications, and fuel.
+An Android client for self-hosted LubeLogger servers, designed to track vehicle maintenance, modifications, and fuel usage.
 
 ## Beyond Computers
 
