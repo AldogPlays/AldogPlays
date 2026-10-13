@@ -18,6 +18,9 @@ A self-hosted personal cloud running TrueNAS SCALE on repurposed hardware, provi
 **[LubeLogger-Android](https://github.com/AldogPlays/LubeLogger-Android)**  
 An Android client for self-hosted LubeLogger servers, designed to track vehicle maintenance, modifications, and fuel usage.
 
+**[Actual-Android](https://github.com/AldogPlays/Actual-Android)**  
+A lightweight Android client for self-hosted Actual Budget, built with Kotlin and GeckoView.
+
 ## Beyond Computers
 
 Outside of tech, I'm into off-roading, cars, and photography.
